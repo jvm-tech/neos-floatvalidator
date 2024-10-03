@@ -1,0 +1,25 @@
+{
+    "description": "",
+    "name": "jvmtech/neos-floatvalidator",
+    "type": "neos-package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michel Löw",
+            "email": "michel.loew@jvm.ch",
+            "homepage": "https://www.jvmtech.ch",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/jvm-tech/neos-floatvalidator/issues"
+    },
+    "require": {
+        "neos/flow": "*"
+    },
+    "extra": {
+        "neos": {
+            "package-key": "JvMTECH.Neos.FloatValidator"
+        }
+    }
+}

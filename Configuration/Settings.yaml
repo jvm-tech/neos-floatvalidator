@@ -1,0 +1,7 @@
+Neos:
+  Neos:
+    Ui:
+      resources:
+        javascript:
+          'JvMTECH.Neos.FloatValidator':
+            resource: 'resource://JvMTECH.Neos.FloatValidator/Public/FloatValidator/Plugin.js'

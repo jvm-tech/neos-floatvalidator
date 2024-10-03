@@ -1,0 +1,12 @@
+{
+  "name": "neos-floatvalidator",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node build.js",
+    "watch": "node build.js --watch"
+  },
+  "devDependencies": {
+    "@neos-project/neos-ui-extensibility": "~9.0.0-beta10",
+    "esbuild": "~0.17.18"
+  }
+}
